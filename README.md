@@ -1,2 +1,0 @@
-# Dashboard
-Odin dashboard project
