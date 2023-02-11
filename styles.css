@@ -80,6 +80,7 @@ li{
 }
 .icon{
   width:60px;
+  padding-top:10px;
 }
 .header-menu{
  display:grid;
